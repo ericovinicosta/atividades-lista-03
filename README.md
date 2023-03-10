@@ -71,7 +71,6 @@ Estrutura de Repetição
         a. Montar a tabuada de: 5
            Começar por: 4
            Terminar em: 7
-
            Vou montar a tabuada de 5 começando em 4 e terminando em 7:
            5 X 4 = 20
            5 X 5 = 25
@@ -115,7 +114,7 @@ Estrutura de Repetição
            Refrigerante    105     R$ 1,00
            Faça um programa que leia o código dos itens pedidos e as quantidades desejadas. Calcule e mostre o valor a ser pago por item (preço * quantidade) e o total geral do pedido. Considere que o cliente deve informar quando o pedido deve ser encerrado.
     44. Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
-        a. 1 , 2, 3, 4  - Votos para os respectivos candidatos 
+        a. 1 , 2, 3, 4  - Votos para os respectivos candidatos
            (você deve montar a tabela ex: 1 - Jose/ 2- João/etc)
            5 - Voto Nulo
            6 - Voto em Branco
@@ -130,7 +129,7 @@ Estrutura de Repetição
         b. Total de Alunos que utilizaram o sistema;
         c. A Média das Notas da Turma.
            Gabarito da Prova:
-           
+
            01 - A
            02 - B
            03 - C
