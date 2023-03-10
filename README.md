@@ -1,6 +1,7 @@
 # Lista de Exercícios 3
 
-Estrutura de Repetição
+Estrutura de Repetição:
+
     1. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido
     2. Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
     3. Faça um programa que leia e valide as seguintes informações:
@@ -18,6 +19,7 @@ Estrutura de Repetição
     10. Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
     11. Altere o programa anterior para mostrar no final a soma dos números.
     12. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:
+
         a. Tabuada de 5:
            5 X 1 = 5
            5 X 2 = 10
@@ -53,6 +55,7 @@ Estrutura de Repetição
            ...
            50 - R$ 9.00
     31. O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
+
         a. Lojas Tabajara
            Produto 1: R$ 2.20
            Produto 2: R$ 5.80
@@ -72,6 +75,7 @@ Estrutura de Repetição
            Começar por: 4
            Terminar em: 7
            Vou montar a tabuada de 5 começando em 4 e terminando em 7:
+
            5 X 4 = 20
            5 X 5 = 25
            5 X 6 = 30
@@ -84,6 +88,7 @@ Estrutura de Repetição
         c. A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. Faça um programa que determine o salário atual desse funcionário. Após concluir isto, altere o programa permitindo que o usuário digite o salário inicial do funcionário.
     39. Faça um programa que leia dez conjuntos de dois valores, o primeiro representando o número do aluno e o segundo representando a sua altura em centímetros. Encontre o aluno mais alto e o mais baixo. Mostre o número do aluno mais alto e o número do aluno mais baixo, junto com suas alturas.
     40. Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados:
+
         a. Código da cidade;
         b. Número de veículos de passeio (em 1999);
         c. Número de acidentes de trânsito com vítimas (em 1999). Deseja-se saber:
@@ -99,12 +104,14 @@ Estrutura de Repetição
            9       20
            12      25
            Exemplo de saída do programa:
+
            Valor da Dívida Valor dos Juros Quantidade de Parcelas  Valor da Parcela
            R$ 1.000,00     0               1                       R$  1.000,00
            R$ 1.100,00     100             3                       R$    366,00
            R$ 1.150,00     150             6                       R$    191,67
     42. Faça um programa que leia uma quantidade indeterminada de números positivos e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados deverá terminar quando for lido um número negativo.
     43. O cardápio de uma lanchonete é o seguinte:
+
         a. Especificação   Código  Preço
            Cachorro Quente 100     R$ 1,20
            Bauru Simples   101     R$ 1,30
